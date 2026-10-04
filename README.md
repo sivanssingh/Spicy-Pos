@@ -1,216 +1,413 @@
+<div align="center">
+
+<img src="assets/soulspicy.png" alt="Soul Spicy POS Logo">
+
 # 🌶️ Soul Spicy POS
-![Soul Spicy POS](assets/soulspicy.png)
-**Soul Spicy POS** is a modern, user-friendly **Point of Sale (POS) and Restaurant Management System** designed to help restaurants, cafés, food shops, cloud kitchens, and retail food businesses manage sales, products, inventory, customers, orders, payments, and business operations from one centralized platform.
+
+### 🚀 Smart • Fast • Powerful Point of Sale & Restaurant Management
+
+**A modern POS ecosystem built for restaurants, cafés, QSRs, food businesses and retail operations.**
+
+<p>
+  <img src="https://img.shields.io/badge/Platform-Android%20%7C%20Web-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Version-1.0-orange?style=for-the-badge">
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/REST%20API-000000?style=flat-square">
+</p>
+
+<br>
+
+<img src="assets/banner.gif" width="95%" alt="Soul Spicy POS Demo">
+
+</div>
 
 ---
 
-## 🚀 Features
+## ✨ About Soul Spicy POS
 
-### 🧾 Point of Sale
-- Fast and intuitive POS interface
-- Product/category-based billing
-- Search products quickly
-- Cart management
-- Quantity and price adjustment
-- Discounts
-- Tax calculation
-- Multiple payment methods
-- Receipt/invoice generation
-- Order hold and resume
-- Order cancellation/refund management
+**Soul Spicy POS** is a complete Point of Sale and business management solution designed to simplify everyday operations.
 
-### 🍔 Product Management
-- Create and manage products
-- Product categories
-- Product images
-- SKU/barcode support
-- Purchase and selling prices
-- Tax configuration
-- Product status management
+From taking orders and generating invoices to managing products, inventory, customers, staff, payments and reports — everything is organized in one powerful platform.
+
+> **Sell faster. Manage smarter. Grow better.**
+
+---
+
+## 🎯 Why Soul Spicy POS?
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+### ⚡ Fast
+
+Lightning-fast billing and order processing.
+
+</td>
+
+<td width="25%" align="center">
+
+### 📦 Inventory
+
+Keep complete control over your stock.
+
+</td>
+
+<td width="25%" align="center">
+
+### 📊 Analytics
+
+Understand your business with powerful reports.
+
+</td>
+
+<td width="25%" align="center">
+
+### 🔐 Secure
+
+Role-based access and secure data management.
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🚀 Core Features
+
+<table>
+<tr>
+<td width="50%">
+
+## 🧾 Smart POS
+
+- ⚡ Fast billing
+- 🔎 Product search
+- 🛒 Cart management
+- 💰 Discounts
+- 🧮 Automatic tax calculation
+- 💳 Multiple payment methods
+- 🧾 Invoice generation
+- 🔄 Order hold & resume
+- ❌ Cancellation & refund
+
+</td>
+
+<td width="50%">
+
+## 📦 Inventory
+
+- 📦 Stock management
+- 🔄 Stock adjustments
+- 🛍️ Purchase management
+- 👨‍💼 Supplier management
+- ⚠️ Low-stock alerts
+- 📈 Inventory reports
+- 🔍 Product tracking
+- 🏷️ SKU & barcode support
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+## 🍽️ Restaurant Management
+
+- 🪑 Table management
+- 🍔 Dine-in orders
+- 🥡 Takeaway
+- 🚚 Delivery
+- 🔄 Order status
+- 👨‍🍳 Kitchen workflow
+- 📋 KOT management
+
+</td>
+
+<td>
+
+## 👥 Customer Management
+
+- 👤 Customer profiles
+- 📞 Contact management
+- 🧾 Purchase history
+- 💳 Payment history
+- 💰 Outstanding balance
+- 🎁 Customer loyalty support
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📊 Business Dashboard
+
+Track your complete business performance from a centralized dashboard.
+
+<div align="center">
+
+<img src="assets/dashboard.png" width="90%" alt="Soul Spicy POS Dashboard">
+
+</div>
+
+### Dashboard Metrics
+
+```text
+┌─────────────────────────────────────────────────────────┐
+│                    SOUL SPICY POS                       │
+├───────────────┬───────────────┬─────────────────────────┤
+│ 💰 Sales      │ 🧾 Orders     │ 👥 Customers            │
+│ ₹25,450       │ 186           │ 1,245                   │
+├───────────────┼───────────────┼─────────────────────────┤
+│ 📦 Products   │ ⚠️ Low Stock  │ 💸 Expenses             │
+│ 850           │ 23            │ ₹4,250                  │
+└───────────────┴───────────────┴─────────────────────────┘
+```
+
+---
+
+# 🖥️ Modern POS Interface
+
+<div align="center">
+
+<img src="assets/pos-screen.png" width="90%" alt="Soul Spicy POS Interface">
+
+</div>
+
+Designed for speed, simplicity and minimal training.
+
+### POS Workflow
+
+```text
+SELECT PRODUCT
+      ↓
+ADD TO CART
+      ↓
+APPLY DISCOUNT / TAX
+      ↓
+SELECT PAYMENT
+      ↓
+GENERATE INVOICE
+      ↓
+ORDER COMPLETED ✅
+```
+
+---
+
+# 🍔 Product Management
+
+<div align="center">
+
+<img src="assets/products.png" width="90%" alt="Product Management">
+
+</div>
+
+Manage your complete product catalog from a centralized interface.
+
+### Product Capabilities
+
+- Product name
+- Product image
+- Category
+- SKU
+- Barcode
+- Purchase price
+- Selling price
+- Tax
+- Stock quantity
+- Product status
 - Product variants
-- Low-stock tracking
 
-### 📦 Inventory Management
-- Real-time stock management
-- Stock in/out records
-- Purchase management
-- Supplier management
-- Stock adjustment
-- Low-stock alerts
-- Inventory history
-- Product-wise stock reports
+---
 
-### 🪑 Restaurant Management
-- Table management
-- Dine-in orders
-- Takeaway orders
-- Delivery orders
-- Table status tracking
-- Order management
-- Kitchen order workflow
+# 👨‍🍳 Kitchen Management
 
-### 👨‍🍳 Kitchen Management
-- Kitchen order display
-- Pending orders
-- Preparing orders
-- Ready orders
-- Completed orders
-- Order status updates
+Soul Spicy POS can connect the front counter with the kitchen workflow.
 
-### 👥 Customer Management
-- Customer registration
-- Customer profiles
-- Contact information
-- Purchase history
-- Customer-wise transactions
-- Outstanding balance tracking
+```text
+NEW ORDER
+    ↓
+🟡 PENDING
+    ↓
+🔵 PREPARING
+    ↓
+🟠 READY
+    ↓
+🟢 COMPLETED
+```
 
-### 👨‍💼 Staff & User Management
-- Admin accounts
-- Cashier accounts
-- Manager accounts
-- Staff management
-- Role-based permissions
-- User activity tracking
+Perfect for:
 
-### 💰 Payment Management
-Support for multiple payment methods such as:
+- Restaurants
+- QSRs
+- Cafés
+- Cloud kitchens
+- Food courts
 
-- Cash
-- UPI
-- Card
-- Bank Transfer
-- Wallet
-- Split payments
+---
 
-### 📊 Reports & Analytics
+# 💳 Payment Management
 
-Monitor your business performance with detailed reports:
+Support multiple payment methods:
+
+| Payment | Support |
+|---|:---:|
+| 💵 Cash | ✅ |
+| 📱 UPI | ✅ |
+| 💳 Card | ✅ |
+| 🏦 Bank Transfer | ✅ |
+| 👛 Wallet | ✅ |
+| 🔀 Split Payment | ✅ |
+
+Payment gateways and third-party providers can be integrated according to deployment requirements.
+
+---
+
+# 📈 Reports & Analytics
+
+Get valuable insights into your business.
+
+### 📊 Sales Reports
 
 - Daily sales
+- Weekly sales
 - Monthly sales
 - Product sales
 - Category sales
-- Purchase reports
-- Profit reports
-- Expense reports
-- Tax reports
-- Inventory reports
-- Customer reports
-- Payment reports
-- Cashier reports
 
-### 💸 Expense Management
-- Add business expenses
-- Expense categories
-- Expense tracking
-- Expense history
-- Expense reports
+### 📦 Inventory Reports
 
-### 🔔 Notifications
-- Low-stock notifications
-- Order notifications
-- Payment notifications
-- System alerts
+- Current stock
+- Stock movement
+- Low-stock products
+- Purchase history
 
----
+### 💰 Financial Reports
 
-# 🎯 Business Benefits
+- Revenue
+- Expenses
+- Profit
+- Taxes
+- Payment summaries
 
-Soul Spicy POS helps businesses:
+### 👥 Customer Reports
 
-- Reduce manual billing work
-- Improve order processing speed
-- Track inventory accurately
-- Monitor sales performance
-- Reduce stock-related losses
-- Manage staff efficiently
-- Maintain customer records
-- Track business expenses
-- Generate useful business reports
-- Centralize daily business operations
+- Customer purchases
+- Customer activity
+- Outstanding balances
 
 ---
 
-# 🏪 Suitable For
+# 👨‍💼 Staff & Role Management
 
-Soul Spicy POS can be used by:
+Create customized access levels for your team.
 
-- 🍽️ Restaurants
-- ☕ Cafés
-- 🍔 Fast Food Shops
-- 🍕 Pizza Shops
-- 🌯 Food Courts
-- 🥡 Takeaway Businesses
-- 🚚 Cloud Kitchens
-- 🧁 Bakeries
-- 🥤 Juice & Beverage Shops
-- 🛒 Food Retail Stores
-- 🍗 QSR Businesses
-- 🏨 Hotels & Restaurants
+| Role | Access |
+|---|---|
+| 👑 Administrator | Full system |
+| 🧑‍💼 Manager | Operations & reports |
+| 💵 Cashier | POS & billing |
+| 👨‍🍳 Kitchen Staff | Kitchen orders |
+| 📦 Store Staff | Inventory |
 
 ---
 
-# 🛠️ Technology
+# 🏪 Perfect For
 
-The technology stack can be configured according to the deployed version of Soul Spicy POS.
+<div align="center">
 
-Typical components may include:
+| 🍽️ Restaurant | ☕ Café | 🍔 Fast Food |
+|---|---|---|
+| 🍕 Pizza Shop | 🧁 Bakery | 🥤 Juice Shop |
+| 🚚 Cloud Kitchen | 🥡 Takeaway | 🛒 Food Retail |
+| 🏨 Hotel | 🌯 QSR | 🍗 Food Court |
 
-- **Frontend:** Flutter / Web
-- **Backend:** PHP / Laravel
-- **Database:** MySQL
-- **API:** REST API
-- **Authentication:** Role-based authentication
-- **Hosting:** Linux / cPanel / VPS
-
-> Check the project source and deployment documentation for the exact technology versions used in your installation.
+</div>
 
 ---
 
-# 📁 Project Structure
+# 🛠️ Technology Stack
 
-A typical project structure may look like:
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,laravel,php,mysql,androidstudio,git,github" alt="Technology Stack">
+
+</div>
+
+### Architecture
 
 ```text
-soul-spicy-pos/
-│
-├── android/
-├── ios/
-├── lib/
-│   ├── core/
-│   ├── models/
-│   ├── services/
-│   ├── screens/
-│   ├── widgets/
-│   └── main.dart
-│
-├── assets/
-│   ├── images/
-│   ├── icons/
-│   └── fonts/
-│
-├── backend/
-│
-├── database/
-│
-├── test/
-│
-├── pubspec.yaml
-└── README.md
+┌──────────────────────────────┐
+│       SOUL SPICY POS         │
+│      Flutter Application     │
+└──────────────┬───────────────┘
+               │
+               │ REST API
+               ▼
+┌──────────────────────────────┐
+│       Laravel Backend        │
+│      Authentication / API    │
+└──────────────┬───────────────┘
+               │
+               ▼
+┌──────────────────────────────┐
+│          MySQL               │
+│    Business Data Storage     │
+└──────────────────────────────┘
 ```
+
+---
+
+# 📱 Application Screenshots
+
+<div align="center">
+
+<img src="assets/login.png" width="30%" alt="Login">
+<img src="assets/dashboard.png" width="30%" alt="Dashboard">
+<img src="assets/pos-screen.png" width="30%" alt="POS">
+
+<br><br>
+
+<img src="assets/products.png" width="30%" alt="Products">
+<img src="assets/orders.png" width="30%" alt="Orders">
+<img src="assets/reports.png" width="30%" alt="Reports">
+
+</div>
 
 ---
 
 # ⚙️ Installation
 
-## 1. Clone the Project
+## Requirements
+
+Before installation, make sure you have:
+
+```text
+Flutter SDK
+Dart SDK
+Android Studio
+Android SDK
+Git
+PHP 8.x+
+MySQL / MariaDB
+Composer
+Laravel
+```
+
+---
+
+## 1️⃣ Clone Repository
 
 ```bash
 git clone YOUR_REPOSITORY_URL
 ```
-
-Enter the project directory:
 
 ```bash
 cd soul-spicy-pos
@@ -218,45 +415,32 @@ cd soul-spicy-pos
 
 ---
 
-## 2. Install Dependencies
-
-For a Flutter application:
+## 2️⃣ Install Flutter Dependencies
 
 ```bash
+flutter clean
 flutter pub get
 ```
 
 ---
 
-## 3. Configure the Application
+## 3️⃣ Configure API
 
-Update your application configuration according to your environment.
-
-Example:
+Update your API configuration:
 
 ```text
 API_BASE_URL=https://your-domain.com/api
 ```
 
-Configure:
-
-- API URL
-- Database connection
-- Authentication settings
-- Payment configuration
-- Application settings
-
 ---
 
-## 4. Run the Application
-
-Check connected devices:
+## 4️⃣ Run Application
 
 ```bash
 flutter devices
 ```
 
-Run the application:
+Then:
 
 ```bash
 flutter run
@@ -264,21 +448,21 @@ flutter run
 
 ---
 
-# 🤖 Android Build
+# 🤖 Build Android APK
 
-To generate a release APK:
+### Debug
+
+```bash
+flutter build apk
+```
+
+### Release
 
 ```bash
 flutter build apk --release
 ```
 
-The generated APK can usually be found at:
-
-```text
-build/app/outputs/flutter-apk/app-release.apk
-```
-
-To generate an Android App Bundle:
+### Play Store AAB
 
 ```bash
 flutter build appbundle --release
@@ -294,32 +478,13 @@ build/app/outputs/bundle/release/app-release.aab
 
 # 🌐 Backend Setup
 
-If the project includes a PHP/Laravel backend:
+If using Laravel:
 
-### Step 1 — Upload Backend
-
-Upload the backend files to your server.
-
-Example:
-
-```text
-public_html/
-    api/
+```bash
+composer install
 ```
 
-### Step 2 — Create Database
-
-Create a MySQL database and database user.
-
-Import the provided SQL database:
-
-```text
-database.sql
-```
-
-### Step 3 — Configure Environment
-
-For Laravel:
+Create `.env`:
 
 ```bash
 cp .env.example .env
@@ -335,24 +500,24 @@ APP_DEBUG=false
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=your_database
+DB_DATABASE=soul_spicy_pos
 DB_USERNAME=your_username
 DB_PASSWORD=your_password
 ```
 
-Generate the application key:
+Generate key:
 
 ```bash
 php artisan key:generate
 ```
 
-Run migrations if required:
+Run migrations:
 
 ```bash
 php artisan migrate
 ```
 
-Clear application cache:
+Clear cache:
 
 ```bash
 php artisan optimize:clear
@@ -362,143 +527,22 @@ php artisan optimize:clear
 
 # 🔐 Security
 
-For production deployment:
+For production deployments:
 
-- Use HTTPS
-- Keep API credentials private
-- Never commit `.env` files
-- Use strong database passwords
-- Restrict administrator access
-- Keep dependencies updated
-- Configure proper server permissions
-- Enable regular database backups
-- Use secure authentication
-- Protect payment credentials and API keys
+- 🔒 Always use HTTPS
+- 🔑 Protect API credentials
+- 🚫 Never commit `.env`
+- 🛡️ Use strong passwords
+- 👥 Restrict administrator access
+- 💾 Maintain regular backups
+- 🔄 Keep dependencies updated
+- 🔐 Secure payment credentials
 
 ---
 
-# 💳 Payment Integration
+# 💾 Database Backup
 
-Soul Spicy POS can be extended to support payment gateways and payment providers.
-
-Possible integrations include:
-
-- UPI
-- Razorpay
-- Cashfree
-- PayU
-- Stripe
-- Card terminals
-- Custom payment APIs
-
-Payment integrations require separate configuration and credentials from the respective provider.
-
----
-
-# 🔑 User Roles
-
-Example user hierarchy:
-
-| Role | Access |
-|---|---|
-| Administrator | Full system access |
-| Manager | Sales, inventory, reports & staff |
-| Cashier | POS & billing |
-| Kitchen Staff | Kitchen orders |
-| Store Staff | Inventory & purchases |
-
-Permissions can be customized according to business requirements.
-
----
-
-# 📊 Dashboard
-
-The Soul Spicy POS dashboard can provide an overview of:
-
-```text
-Today's Sales
-Today's Orders
-Total Products
-Low Stock Products
-Customers
-Purchases
-Expenses
-Profit
-Payment Summary
-```
-
-Example:
-
-```text
-┌──────────────────────────────────────────────┐
-│              SOUL SPICY POS                 │
-├──────────────┬──────────────┬───────────────┤
-│ Today's Sale │ Orders       │ Customers     │
-│ ₹25,450      │ 186          │ 1,245         │
-├──────────────┼──────────────┼───────────────┤
-│ Products     │ Low Stock    │ Expenses      │
-│ 850          │ 23           │ ₹4,250        │
-└──────────────┴──────────────┴───────────────┘
-```
-
----
-
-# 🧾 Invoice
-
-The system can generate professional invoices/receipts containing:
-
-- Business name
-- Business address
-- Invoice number
-- Date & time
-- Cashier information
-- Customer information
-- Product details
-- Quantity
-- Price
-- Discount
-- Tax
-- Payment method
-- Grand total
-
----
-
-# 🗄️ Database
-
-The database may contain modules/tables for:
-
-```text
-users
-roles
-permissions
-products
-categories
-customers
-suppliers
-orders
-order_items
-payments
-purchases
-purchase_items
-inventory
-expenses
-tables
-taxes
-settings
-notifications
-```
-
-The exact database structure depends on the installed version.
-
----
-
-# 🔄 Backup & Restore
-
-Regular backups are recommended.
-
-### Database Backup
-
-Example MySQL command:
+Create backup:
 
 ```bash
 mysqldump -u USERNAME -p DATABASE_NAME > backup.sql
@@ -510,177 +554,172 @@ Restore:
 mysql -u USERNAME -p DATABASE_NAME < backup.sql
 ```
 
-Always maintain multiple backup copies for production systems.
-
 ---
 
-# 🧪 Testing
+# 🧪 Development
 
-Run Flutter tests:
-
-```bash
-flutter test
-```
-
-Analyze the project:
-
-```bash
-flutter analyze
-```
-
-Check Flutter configuration:
+Check Flutter:
 
 ```bash
 flutter doctor
 ```
 
+Analyze code:
+
+```bash
+flutter analyze
+```
+
+Run tests:
+
+```bash
+flutter test
+```
+
+Clean project:
+
+```bash
+flutter clean
+```
+
 ---
 
-# 🐛 Troubleshooting
-
-### Flutter dependencies issue
-
-Run:
-
-```bash
-flutter clean
-flutter pub get
-```
-
-Then:
-
-```bash
-flutter run
-```
-
-### Android build issue
-
-Try:
-
-```bash
-flutter clean
-flutter pub get
-flutter build apk --release
-```
-
-### API connection issue
-
-Verify:
-
-1. API URL
-2. Server status
-3. SSL certificate
-4. Database connection
-5. CORS configuration
-6. Authentication token
-7. Server firewall
-
-### Database connection issue
-
-Check:
+# 🗺️ Roadmap
 
 ```text
-Database Host
-Database Port
-Database Name
-Database Username
-Database Password
+✅ POS Billing
+✅ Product Management
+✅ Inventory Management
+✅ Customer Management
+✅ Payment Management
+✅ Reports
+✅ Staff Management
+
+🚧 Multi-Branch Management
+🚧 Advanced CRM
+🚧 Online Ordering
+🚧 Delivery Management
+🚧 WhatsApp Notifications
+🚧 Loyalty Program
+
+🔮 AI Business Analytics
+🔮 Smart Sales Forecasting
+🔮 Automated Inventory Prediction
 ```
 
 ---
 
-# 📱 Application Branding
+# 🌟 Future Vision
 
-**Application Name:** Soul Spicy POS
+Soul Spicy POS is designed to evolve into a complete **restaurant business operating system**.
 
-**Developer/Company:** Soul Infotech
+Future possibilities include:
 
-**Product Type:** Point of Sale & Business Management System
+### 🤖 AI Analytics
 
-**Primary Use:** Restaurant, Café, Food & Retail Business Management
+Predict:
+
+- Sales trends
+- High-performing products
+- Inventory requirements
+- Customer behavior
+
+### 📱 Online Ordering
+
+Connect POS with:
+
+- Website
+- Mobile App
+- QR ordering
+- Online food ordering
+
+### 💬 WhatsApp Integration
+
+Send:
+
+- Order confirmation
+- Invoice
+- Payment confirmation
+- Customer notifications
 
 ---
 
-# 🌐 Official Website
+# 🏆 Product Highlights
 
-**Soul Infotech**
+<div align="center">
 
-Visit:
+### ⚡ Fast Billing
 
-https://soulinfotech.org
+### 📦 Smart Inventory
+
+### 📊 Powerful Analytics
+
+### 💳 Flexible Payments
+
+### 👥 Customer Management
+
+### 👨‍🍳 Kitchen Operations
+
+### 🔐 Secure Access
+
+### 📱 Modern UI
+
+</div>
+
+---
+
+# 🏢 Developed By
+
+<div align="center">
+
+<img src="assets/soul-infotech-logo.png" width="160" alt="Soul Infotech">
+
+### Soul Infotech
+
+**Web Development • App Development • Digital Marketing • Software Solutions**
+
+🌐 **https://soulinfotech.org**
+
+</div>
 
 ---
 
 # 📞 Support
 
-For technical support, customization, deployment, or integration assistance:
+For technical support, customization, deployment and integration:
 
 **Soul Infotech**
 
-📧 Email: support@soulinfotech.org
+📧 support@soulinfotech.org
 
-🌐 Website: https://soulinfotech.org
-
-📱 Phone: +91 85739 31632
-
----
-
-# 🧩 Customization
-
-Soul Spicy POS can be customized according to individual business requirements.
-
-Possible customizations include:
-
-- Custom POS screens
-- Custom invoice designs
-- Multi-branch management
-- Multi-language support
-- Advanced inventory
-- Loyalty programs
-- Online ordering
-- Delivery management
-- WhatsApp notifications
-- Payment gateway integration
-- Accounting integration
-- Advanced analytics
-- Custom reports
-- Mobile applications
-- API integrations
-
----
-
-# 🚀 Future Enhancements
-
-Planned/possible enhancements:
-
-- Multi-store management
-- Advanced loyalty system
-- Online food ordering
-- Delivery partner management
-- Advanced CRM
-- WhatsApp order notifications
-- AI-powered business analytics
-- Cloud synchronization
-- Advanced employee management
-- Automated backup
-- Subscription management
+🌐 https://soulinfotech.org
 
 ---
 
 # 📄 License
 
-Copyright © Soul Infotech.
+Copyright © **Soul Infotech**
 
 All rights reserved.
 
-This software is proprietary software of **Soul Infotech** unless a separate license agreement states otherwise.
+This software is proprietary unless otherwise specified by the applicable license agreement.
 
-Unauthorized copying, redistribution, resale, modification, or commercial distribution is prohibited.
+Unauthorized copying, redistribution, resale or commercial distribution is prohibited.
 
 ---
 
-# ❤️ Built by Soul Infotech
+<div align="center">
 
-**Soul Spicy POS — Simplify Billing. Manage Better. Grow Faster.**
+## 🌶️ Soul Spicy POS
 
-Built with ❤️ by **Soul Infotech**.
+### **Simplify Billing. Manage Better. Grow Faster.**
+
+<br>
+
+<img src="assets/logo.png" width="100" alt="Soul Spicy POS">
+
+<br><br>
+
+⭐ **Star this repository if you like the project!**
+
+</div>
