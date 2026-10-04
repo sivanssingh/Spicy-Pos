@@ -370,8 +370,8 @@ Create customized access levels for your team.
 <div align="center">
 
 <img src="assets/login.png" width="30%" alt="Login">
-<img src="assets/dashboard.png" width="30%" alt="Dashboard">
-<img src="assets/pos-screen.png" width="30%" alt="POS">
+<img src="assets/Soul Spicy POS Dashboard.png" width="30%" alt="Dashboard">
+<img src="assets/interface.png" width="30%" alt="POS">
 
 <br><br>
 
@@ -716,7 +716,7 @@ Unauthorized copying, redistribution, resale or commercial distribution is prohi
 
 <br>
 
-<img src="assets/logo.png" width="100" alt="Soul Spicy POS">
+<img src="assets/soulspicy.png" width="100" alt="Soul Spicy POS">
 
 <br><br>
 
