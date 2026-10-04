@@ -1,5 +1,5 @@
 # 🌶️ Soul Spicy POS
-
+![Soul Spicy POS](assets/soulspicy.png)
 **Soul Spicy POS** is a modern, user-friendly **Point of Sale (POS) and Restaurant Management System** designed to help restaurants, cafés, food shops, cloud kitchens, and retail food businesses manage sales, products, inventory, customers, orders, payments, and business operations from one centralized platform.
 
 ---
