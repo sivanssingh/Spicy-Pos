@@ -153,7 +153,7 @@ Track your complete business performance from a centralized dashboard.
 
 <div align="center">
 
-<img src="assets/dashboard.png" width="90%" alt="Soul Spicy POS Dashboard">
+<img src="assets/Soul Spicy POS Dashboard.png" width="90%" alt="Soul Spicy POS Dashboard">
 
 </div>
 
